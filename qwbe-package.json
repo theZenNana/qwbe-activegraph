@@ -1,0 +1,6 @@
+{
+  "name": "activegraph",
+  "kind": "plugin",
+  "summary": "ActiveGraph agent plugin: one cube (agentlab) on the generic agent surface",
+  "cubes": ["agentlab"]
+}

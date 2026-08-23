@@ -1,0 +1,12 @@
+{
+  "name": "qwbe-activegraph-plugin-source",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "setup": "node setup.mjs",
+    "test": "node --test test/*.test.mjs"
+  },
+  "peerDependencies": {
+    "qwbe-core": "0.0.0"
+  }
+}
